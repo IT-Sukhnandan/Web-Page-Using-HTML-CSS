@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+table,th,td{
+    border: 2px solid blue;
+}
+td{
+    background-color: bisque;
+}
+th{
+    background-color: yellowgreen;
+}
+table{
+    position: absolute;
+    left: 17%;
+}
